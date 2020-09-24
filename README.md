@@ -25,10 +25,6 @@ Steps to build it yourself:
 
 > expo build:android 
 
-or
-
-> expo build:ios
-
 7. Open the displayed link to your Build Process
 
 8. Download and install the APK
