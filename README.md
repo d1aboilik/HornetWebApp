@@ -1,5 +1,5 @@
 # HornetWebApp
-A mobile web application for the Hornet Dashboard
+A simple mobile web application for the Hornet Dashboard
 
 Steps to build it yourself:
 
@@ -24,7 +24,9 @@ Steps to build it yourself:
 6. Let expo Build the App (choose APK):
 
 > expo build:android 
-or 
+
+or
+
 > expo build:ios
 
 7. Open the displayed link to your Build Process
