@@ -19,12 +19,10 @@ Steps to build it yourself:
 
 > npm install
 
-5. Change the Domain in App.js (row 37) in the format "https://DashUser:DashPassword@yourdomain.net:port" 
-
-6. Let expo Build the App (choose APK):
+5. Let expo Build the App (choose APK):
 
 > expo build:android 
 
-7. Open the displayed link to your Build Process
+6. Open the displayed link to your Build Process
 
-8. Download and install the APK
+7. Download and install the APK
